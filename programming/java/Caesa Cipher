@@ -4,6 +4,7 @@
 */
 
 import java.util.Scanner;
+
 class Encryption {
 	public String encryption(String text, int key) {
 		String encryption_text = "";
